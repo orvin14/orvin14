@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orvin14
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Informatics Engineering in Institut Teknologi Bandung
+- 🌱 I’m currently learning Informatics Engineering at Institut Teknologi Bandung
 - 📫 How to reach me @orvin_andika
 - ⚡ Fun fact: Tanyain di SPARTA
 
